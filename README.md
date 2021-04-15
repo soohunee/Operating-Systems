@@ -9,3 +9,4 @@ Textbook : Operating Systems: Three Easy Pieces
 |Report3|Programming & Analaysis|Debugging Memory Allocation w/ valgrind|
 |Report4|Programming & Analaysis|Memory API|
 |Report5|Programming & Analaysis|Paging(Faster Translations TLBs)|
+|Report6|Programming & Analaysis|Page Replacement Policies|
