@@ -1,0 +1,475 @@
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy OPT
+ARG clockbits 2
+ARG cachesize 1
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+OPT
+1
+314134
+301585
+51.02
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy OPT
+ARG clockbits 2
+ARG cachesize 2
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+OPT
+2
+526470
+89249
+85.50
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy OPT
+ARG clockbits 2
+ARG cachesize 3
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+OPT
+3
+572967
+42752
+93.06
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy OPT
+ARG clockbits 2
+ARG cachesize 4
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+OPT
+4
+588828
+26891
+95.63
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy OPT
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+OPT
+5
+596543
+19176
+96.89
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 1
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+FIFO
+1
+314134
+301585
+51.02
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 2
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+FIFO
+2
+486045
+129674
+78.94
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 3
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+FIFO
+3
+543860
+71859
+88.33
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 4
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+FIFO
+4
+567341
+48378
+92.14
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy FIFO
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+FIFO
+5
+581187
+34532
+94.39
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 1
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+LRU
+1
+314134
+301585
+51.02
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 2
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+LRU
+2
+524914
+90805
+85.25
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 3
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+LRU
+3
+558176
+57543
+90.65
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 4
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+LRU
+4
+578608
+37111
+93.97
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy LRU
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+LRU
+5
+587795
+27924
+95.46
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy RAND
+ARG clockbits 2
+ARG cachesize 1
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+RAND
+1
+314134
+301585
+51.02
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy RAND
+ARG clockbits 2
+ARG cachesize 2
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+RAND
+2
+486360
+129359
+78.99
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy RAND
+ARG clockbits 2
+ARG cachesize 3
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+RAND
+3
+538741
+76978
+87.50
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy RAND
+ARG clockbits 2
+ARG cachesize 4
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+RAND
+4
+563472
+52247
+91.51
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy RAND
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+RAND
+5
+577939
+37780
+93.86
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy CLOCK
+ARG clockbits 2
+ARG cachesize 1
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+CLOCK
+1
+314134
+301585
+51.02
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy CLOCK
+ARG clockbits 2
+ARG cachesize 2
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+CLOCK
+2
+497904
+117815
+80.87
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy CLOCK
+ARG clockbits 2
+ARG cachesize 3
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+CLOCK
+3
+549028
+66691
+89.17
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy CLOCK
+ARG clockbits 2
+ARG cachesize 4
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+CLOCK
+4
+572068
+43651
+92.91
+
+ARG addresses -1
+ARG addressfile VPN_reference.txt
+ARG numaddrs 10
+ARG policy CLOCK
+ARG clockbits 2
+ARG cachesize 5
+ARG maxpage 10
+ARG seed 0
+ARG notrace False
+
+Solving...
+
+
+CLOCK
+5
+584369
+31350
+94.91
+
